@@ -4,7 +4,7 @@
            fetch="https://github.com/"
            review="" />
 
-  <default revision="efs/heads/master"
+  <default revision="refs/heads/master"
            remote="lightverse"
            sync-j="4" />
   <project path="lightverse/puppy-adoption" name="puppy-adoption" groups="self" >
