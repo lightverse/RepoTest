@@ -7,6 +7,6 @@
   <default revision="refs/heads/master"
            remote="lightverse"
            sync-j="4" />
-  <project path="lightverse/puppy-adoption" name="puppy-adoption" groups="self" >
+  <project path="myPath" name="lightverse/puppy-adoption" groups="self" >
   </project>
 </manifest>
